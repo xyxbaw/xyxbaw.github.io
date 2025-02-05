@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>My New Post</title>
-      <link href="/My-New-Post/"/>
-      <url>/My-New-Post/</url>
+      <title>Hello World</title>
+      <link href="/hello-world/"/>
+      <url>/hello-world/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
@@ -17,13 +17,25 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/hello-world/"/>
-      <url>/hello-world/</url>
+      <title>随笔</title>
+      <link href="/My-New-Post/"/>
+      <url>/My-New-Post/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<pre><code>今天是年后复工第一天……完全没有心思工作！想女朋友了呜呜呜……当初弄这个网站是好玩来着，然后又想着要不用来写暗恋心事，结果还没建设完居然就和姐姐在一起了，现在都还觉得不真实。。要不要告诉她这个地方的存在呢~等我建设好再告诉她好了！现在回想之前那段时间都好像梦一样。初次见面，日常聊天，心动，暧昧，拉扯，犹豫，告白，见面，亲吻，分开后的想念，鼓起勇气飞上海一起过生日，还有拥抱着睡觉的夜晚，情动时的交缠……越回想我就越舍不得，越想念/(ㄒoㄒ)/~~ 我真的有一个超级好的女朋友！！虽然她说我满脑子黄色废料吧，但是我回想幸福的时刻闪现最多的是和她牵着手漫无目的地散步的时候，是她笑眯眯看着我的时候，被我气到想打我却舍不得用劲的时候，吃辣吃的眼泪汪汪还嘴硬的时候，给我唱歌到嗓子微哑的时候，害羞捂脸哼哼唧唧的时候，给我煮长寿面唱生日歌的时候……我真的好喜欢我的女朋友……姐姐你看，虽然我们才待在一起几天，但是已经有好多好多美好的回忆了！~前几天和朋友一起玩的时候，有聊到“爱”这件事。好吧，我的确有被你说的“我爱你”给吓到，朋友们也都认为爱不是可以轻易说出来的事，至少现在的她们都不会对对象说。我的确还没搞明白这件事情，但是在你说出来的时候，我除了不知道作何反应，唯一的感受就是如果我不爱你你一定会很难过，但是我不想你难过。所以这就是爱吧？对吧对吧＜（＾－＾）＞好吧，姐姐，我的确爱你下次见面是什么时候呢，虽然异地恋真的很难熬，但同时我又觉得幸好异地恋的对象是你，这样每一次的见面都特别幸福珍贵，至少美好的回忆可以支撑到我们下一次见面，我会不断回想的~</code></pre>]]></content>
       
       
+      <categories>
+          
+          <category> xyx </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> LOVE </tag>
+            
+        </tags>
       
     </entry>
     
