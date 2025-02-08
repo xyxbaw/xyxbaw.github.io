@@ -17,6 +17,31 @@
     
     
     <entry>
+      <title>随笔2</title>
+      <link href="/post/"/>
+      <url>/post/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container">[视频内嵌代码]</div><style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><pre><code>每天都想很多……</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> xyx </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> LOVE </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>随笔</title>
       <link href="/something/"/>
       <url>/something/</url>
